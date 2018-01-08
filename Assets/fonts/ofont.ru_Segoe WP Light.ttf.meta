@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f48deecd7bee87f4795ddc1ed846fba1
+timeCreated: 1494336943
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe WP
+  fontNames:
+  - Segoe WP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
